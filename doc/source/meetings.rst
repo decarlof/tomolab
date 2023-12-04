@@ -11,7 +11,7 @@ The first meeting on November, 27 2023 had the following agenda:
 .. _slides_5: https://anl.box.com/s/ifho0wu6q9br668ijyypns679wcrwb0a
 .. _slides_6: https://anl.box.com/s/wpuwagzp5w6qs9f566q8fn3xrn27t2h2
 
-.. _video_link: https://app.globus.org/file-manager?origin_id=9f00a780-4aee-42a7-b7f4-6a2773c8da30&origin_path=%2Ftomo_00031%2F
+.. _video_link: https://argonne.zoomgov.com/rec/share/Bx5SF-EGm0i9QPNhJ7iiOolCVXBcwSkqsftLDhc_CPpBkc9m8A7COXpt2JY5WL5p.QpCR7gAGHK3Qnx7Q
 
 
 +---------------+---------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------+
@@ -46,4 +46,4 @@ The first meeting on November, 27 2023 had the following agenda:
 | 17:50 - 18:00 | Final remarks, perspective work                                                                                     | Alberto, Francesco, Lucia                                       |
 +---------------+---------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------+
 
-The recording of the presentation is available at: (video not available)
+The recording of the presentation is available at: video_link_
