@@ -1,0 +1,1 @@
+=======Credits=======Citations=========THIS PAGE IS A SPACE HOLDER THAT WILL CONTAIN REFERENCES TO PAPERSWe kindly request that you cite the following article :cite:`cite:01` if you use project... bibliography:: bibtex/cite.bib   :style: plain   :labelprefix: AReferences==========.. bibliography:: bibtex/ref.bib   :style: plain   :labelprefix: B   :all: 

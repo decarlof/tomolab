@@ -1,0 +1,26 @@
+package:
+  name: project
+  version: '0.1.1'
+
+source:
+  git_url: https://github.com/decarlof/tomolab.git
+  
+build:
+  number: 0
+
+requirements:
+  build:
+    - python
+    - setuptools
+ 
+  run:
+    - python
+    - numpy    
+    
+test:
+  # Python imports
+
+about:
+  home: http://project.readthedocs.org
+  license: BSD-3
+  summary: 'Add docs to any project.'
