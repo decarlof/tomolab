@@ -3,7 +3,7 @@ TomoLab
 =======
 
 
-.. image:: source/img/project-logo.png
+.. image:: img/project-logo.png
    :width: 320px
    :alt: project
 
@@ -22,6 +22,6 @@ Content
 .. toctree::
    :maxdepth: 1
 
-   source/meetings
-   source/demo
-   source/credits
+   meetings
+   demo
+   credits

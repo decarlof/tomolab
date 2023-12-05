@@ -4,11 +4,11 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='project',
-    author='Doga Gursoy, Francesco De Carlo',
+    name='tomolab',
+    author='Francesco De Carlo',
     packages=find_packages(),
     version=open('VERSION').read().strip(),
-    description = 'Data I/O for tomography.',
+    description = 'TomoLab meeting docs',
     license='BSD-3',
     platforms='Any',
     classifiers=[

@@ -41,8 +41,8 @@ extensions = [
     'sphinx.ext.viewcode']
 
 bibtex_bibfiles = [
-    'source/bibtex/cite.bib',
-    'source/bibtex/ref.bib',
+    'bibtex/cite.bib',
+    'bibtex/ref.bib',
     ]
 
 # Napoleon settings
@@ -81,7 +81,7 @@ copyright = u'2023, ' + Affiliation
 # built documents.
 #
 # The short X.Y version.
-version = open(os.path.join('..', 'VERSION')).read().strip()
+version = open(os.path.join('../..', 'VERSION')).read().strip()
 # The full version, including alpha/beta/rc tags.
 release = version
 
