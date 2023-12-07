@@ -1,6 +1,6 @@
-=======
-TomoLab
-=======
+===========
+CustomCTLab
+===========
 
 
 .. image:: img/project-logo.png
@@ -8,7 +8,7 @@ TomoLab
    :alt: project
 
 
-This web site contains the documentation of the TomoLab meetings. 
+This web site contains the documentation of the CustomCTLab meetings. 
 
 These meetings aim to share and discuss best practices and solutions used in the development of the control and data analysis system for a custom designed tomography instrument.
 

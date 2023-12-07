@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 #
-# TomoLab documentation build configuration file, created by
+# CustomCTLab documentation build configuration file, created by
 # sphinx-quickstart on Fri Mar 13 16:29:32 2015.
 #
 # This file is execfile()d with the current directory set to its
@@ -73,7 +73,7 @@ master_doc = 'index'
 
 # General information about the project.
 Affiliation = u'Argonne National Laboratory'
-project = u'TomoLab'
+project = u'CustomCTLab'
 copyright = u'2023, ' + Affiliation
 
 # The version info for the project you're documenting, acts as replacement for
@@ -288,7 +288,7 @@ texinfo_documents = [
   project+u' Documentation',
   Affiliation, 
   project, 
-  'TomoLab documentation'),
+  'CustomCTLab documentation'),
 ]
 
 # Documents to append as an appendix to all manuals.
