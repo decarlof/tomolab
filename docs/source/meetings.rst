@@ -9,7 +9,7 @@ The first meeting on November, 27 2023 had the following agenda:
 
 .. _slides_1: https://anl.box.com/s/5zzhtndhsgxnc2u3y37br7lworp42ymi
 .. _slides_2: https://anl.box.com/s/wklff2sgs6kczpqe31netgpmc4ezcbuz
-.. _slides_3: https://app.globus.org/file-manager?origin_id=9f00a780-4aee-42a7-b7f4-6a2773c8da30&origin_path=%2Ftomo_00031%2F
+.. _slides_3: https://anl.box.com/s/5pf942ed30284fet1qfyykrzwyotc7u6
 .. _slides_4: https://anl.box.com/s/ot8lnn5au9t7cnyo6mhb1rldxuc9lj55
 .. _slides_5: https://anl.box.com/s/ifho0wu6q9br668ijyypns679wcrwb0a
 .. _slides_6: https://anl.box.com/s/wpuwagzp5w6qs9f566q8fn3xrn27t2h2
@@ -30,7 +30,7 @@ The first meeting on November, 27 2023 had the following agenda:
 +---------------+---------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------+
 | 15:55 - 16:05 | Questions & Discussion                                                                                              |                                                                 |
 +---------------+---------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------+
-| 16:05 - 16:20 | The new laboratory ‘Optimal Imaging and Tomography’ (slides not available)                                          | Pierre Thibault University of Trieste, Italy                    |
+| 16:05 - 16:20 | The new laboratory ‘Optimal Imaging and Tomography’ (slides_3_)                                                     | Pierre Thibault University of Trieste, Italy                    |
 +---------------+---------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------+
 | 16:20 - 16:30 | Questions & Discussion                                                                                              |                                                                 |
 +---------------+---------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------+
