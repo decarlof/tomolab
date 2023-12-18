@@ -17,6 +17,11 @@ The first meeting on November, 27 2023 had the following agenda:
 .. _video_link: https://argonne.zoomgov.com/rec/share/Bx5SF-EGm0i9QPNhJ7iiOolCVXBcwSkqsftLDhc_CPpBkc9m8A7COXpt2JY5WL5p.QpCR7gAGHK3Qnx7Q
 
 
+.. _slides_7: https://anl.box.com/s/56rvyfqg9qni5mk5ui7g3tjmompcgw5d
+
+.. _video_link_01: https://argonne.zoomgov.com/rec/share/Bx5SF-EGm0i9QPNhJ7iiOolCVXBcwSkqsftLDhc_CPpBkc9m8A7COXpt2JY5WL5p.QpCR7gAGHK3Qnx7Q
+
+
 +---------------+---------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------+
 | Time          | Title                                                                                                               | Speaker(s)                                                      |
 +---------------+---------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------+
@@ -49,12 +54,17 @@ The first meeting on November, 27 2023 had the following agenda:
 | 17:50 - 18:00 | Final remarks, perspective work                                                                                     | Alberto, Francesco, Lucia                                       |
 +---------------+---------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------+
 
-The recording of the presentation is available at: video_link_
+The recording of the presentations is available at: video_link_01_
 
 Second
 ======
 
 The second meeting on December 18, 2023 had the following agenda:
+
+.. _slides_7: https://anl.box.com/s/56rvyfqg9qni5mk5ui7g3tjmompcgw5d
+.. _slides_8: not avaialble
+
+.. _video_link_02: https://argonne.zoomgov.com/rec/share/-sYKQJlg5aH9wDjT9-T5DKU1hNHY1exnFMeOUQ7ZFB4UxFgFE-mA9Dd4oFY9Qs0.JauGmnO0zjmiLk3W
 
 
 +---------------+---------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------+
@@ -62,15 +72,16 @@ The second meeting on December 18, 2023 had the following agenda:
 +---------------+---------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------+
 | 15:00 - 15:15 | Intro by the Organizers                                                                                             | Alberto Astolfo, Francesco De Carlo, Lucia Mancini              |
 +---------------+---------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------+
-| 15:15 - 15:40 | A LabView-based scanner control environment for the in-house developed scanner systems of UGCT                      | Matthieu Boone Ghent University                                 |
+| 15:15 - 15:40 | A LabView-based scanner control environment for the in-house developed scanner systems of UGCT (slides_7_)          | Matthieu Boone Ghent University                                 |
 +---------------+---------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------+
 | 15:40 - 15:55 | Questions & Discussion                                                                                              |                                                                 |
 +---------------+---------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------+
-| 15:55 - 16:20 | 3D  imaging center  at DTU: a mixture of commercial  and self-build tomographs                                      | Rajmund Mokso DTU                                               |
+| 15:55 - 16:20 | 3D  imaging center  at DTU: a mixture of commercial  and self-build tomographs  (not avaialable yet)                | Rajmund Mokso DTU                                               |
 +---------------+---------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------+
 | 16:20 - 16:35 | Questions & Discussion                                                                                              |                                                                 |
 +---------------+---------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------+
 | 16:35 - 17:15 | Final remarks, perspect                                                                                             | Alberto, Francesco, Lucia                                       |
 +---------------+---------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------+
 
+The recording of the presentations is available at: video_link_02_
 
