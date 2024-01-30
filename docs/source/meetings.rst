@@ -85,3 +85,17 @@ The second meeting on December 18, 2023 had the following agenda:
 
 The recording of the presentations is available at: video_link_02_
 
+
+Technical meetings
+==================
+
+Lab Control Meeting
+-------------------
+
+The Lab Control Meeting was held on January 29, 2024 
+
+
+.. _video_link_03: https://liveuclac-my.sharepoint.com/:v:/g/personal/rmapaas_ucl_ac_uk/EUq9AD_c1CRNucbDt8ewz1wB3mzbON0fmrLylYvEFzi-aw
+
+The recording of the presentations is available at: video_link_03_
+
