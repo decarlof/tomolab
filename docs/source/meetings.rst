@@ -92,7 +92,7 @@ Third
 The third meeting on February 19, 2024 will have the following agenda:
 
 
-.. _video_link_04: https://argonne.zoomgov.com/rec/share/-sYKQJlg5aH9wDjT9-T5DKU1hNHY1exnFMeOUQ7ZFB4UxFgFE-mA9Dd4oFY9Qs0.JauGmnO0zjmiLk3W
+.. _video_link_04: https://argonne.zoomgov.com/rec/share/eSoqRG3FMOjglYzvnZdU7a6T-81_6YXDamFbMD6ux0OnQgm6PelfRE00BAeAnqmI.B9EfnwawGN09KKKc
 
 
 +---------------+---------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------+
@@ -117,8 +117,7 @@ The third meeting on February 19, 2024 will have the following agenda:
 | 17:45 - 18:00 | Final remarks, perspectives                                                                                               |                                                                 |
 +---------------+---------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------+
 
-The recording of the presentations will be made avaialble after the meeting.
-
+The recording of the presentations is available at: video_link_04_
 
 
 
