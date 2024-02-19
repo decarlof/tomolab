@@ -41,7 +41,6 @@ extensions = [
     'sphinx.ext.viewcode']
 
 bibtex_bibfiles = [
-    'bibtex/cite.bib',
     'bibtex/ref.bib',
     ]
 
