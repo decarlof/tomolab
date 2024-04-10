@@ -128,13 +128,19 @@ The recording of the presentations is available at: video_link_04_
 Technical meetings
 ==================
 
-Lab Control Meeting
--------------------
+Technical meetings are to discuss specific implementation details. 
 
-The Lab Control Meeting was held on January 29, 2024 
+Lab Control Lib
+---------------
+
+The following meetings were held to present/discuss the Lab Control Lib developed by Pierre Thibault from the University of Trieste, Italy.
 
 
 .. _video_link_03: https://liveuclac-my.sharepoint.com/:v:/g/personal/rmapaas_ucl_ac_uk/EUq9AD_c1CRNucbDt8ewz1wB3mzbON0fmrLylYvEFzi-aw
+.. _video_link_05: https://argonne.zoomgov.com/rec/share/z7VSklY-OSfvPrMCwEtqijptkDsNhZAxrcbdVwMj59RP-zlKE22G9a-6FIu2D8bF.VBs_b7ElBIl_1DDx
 
-The recording of the presentations is available at: video_link_03_
+The recording of the presentations is available at: 
+
+- January 29, 2024 video_link_03_
+- April 19, 2024 video_link_05_
 
